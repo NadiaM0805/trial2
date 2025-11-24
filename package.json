@@ -10,7 +10,9 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@phenom/design-system-jsx": "file:../https-::github.com:NadiaM0805:phenom-design-system-V2.git/phenom-design-system-V2",
+    "@fortawesome/free-solid-svg-icons": "^7.1.0",
+    "@fortawesome/react-fontawesome": "^3.1.0",
+    "@phenom/design-system-jsx": "git+https://github.com/NadiaM0805/phenom-design-system-V2.git#main",
     "react": "^19.2.0",
     "react-dom": "^19.2.0"
   },
